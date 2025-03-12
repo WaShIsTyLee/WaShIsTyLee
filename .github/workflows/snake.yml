@@ -24,11 +24,13 @@ jobs:
           github_user_name: WaShIsTyLee
           outputs: dist/github-contribution-grid-snake.svg,dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Verificar los archivos generados
-      - name: Listar archivos generados
-        run: ls -la dist
+      # Verificar si los archivos fueron generados correctamente
+      - name: Verificar archivos generados
+        run: |
+          echo "Archivos generados:"
+          ls -la dist/
 
-      # Subir los archivos generados a la rama de salida
+      # Subir los archivos generados a la rama de salida si existen
       - name: Subir github-contribution-grid-snake.svg a la rama de salida
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
