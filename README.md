@@ -6,7 +6,7 @@
 
 ## Watch snake eating my github contributions 
  
-![snake_gif](https://github.com/WaShIsTyLee/WaShIsTyLee/blob/output/github-snake-dark.svg)
+![snake_gif](https://github.com/WaShIsTyLee/WaShIsTyLee/blob/output/github-snake.svg)
 
 ## 🚀 Sobre mí
 💻 Desarrollador de Aplicaciones Multiplataforma apasionado por la programación y la exploración de nuevas tecnologías.  
