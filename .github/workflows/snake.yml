@@ -22,9 +22,12 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: WaShIsTyLee
-          outputs: dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
+          outputs: dist/github-contribution-grid-snake.svg,dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Verificar los archivos generados
+      - name: Listar archivos generados
+        run: ls -la dist
+
       # Subir los archivos generados a la rama de salida
       - name: Subir github-contribution-grid-snake.svg a la rama de salida
         uses: crazy-max/ghaction-github-pages@v2.6.0
