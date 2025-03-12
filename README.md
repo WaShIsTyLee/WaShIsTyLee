@@ -48,6 +48,8 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/juan-j%C3%A9sus-l%C3%B3pez-solano-5b0133232/)  
 📧 [Correo Electrónico](mailto:lopezsolanojuanjesus@gmail.com)  
 
+https://github.com/WaShIsTyLee/WaShIsTyLee/blob/output/github-contribution-grid-snake.gif
+
 ---
 
 ⭐ ¡No dudes en conectar conmigo y echar un vistazo a mis proyectos! 🚀  
