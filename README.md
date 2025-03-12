@@ -4,9 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
-## Watch snake eating my github contributions 
- 
-![snake_gif](https://github.com/WaShIsTyLee/WaShIsTyLee/blob/output/github-snake.svg)
+
 
 ## 🚀 Sobre mí
 💻 Desarrollador de Aplicaciones Multiplataforma apasionado por la programación y la exploración de nuevas tecnologías.  
@@ -52,7 +50,8 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/juan-j%C3%A9sus-l%C3%B3pez-solano-5b0133232/)  
 📧 [Correo Electrónico](mailto:lopezsolanojuanjesus@gmail.com)  
 
-
+ 
+![snake_gif](https://github.com/WaShIsTyLee/WaShIsTyLee/blob/output/github-snake-dark.svg)
 
 ---
 
