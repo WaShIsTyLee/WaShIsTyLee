@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
-![snake gif](https://github.com/WaShIsTyLee/WaShIsTyLee/blob/output/github-contribution-grid-snake.gif)
+## Watch snake eating my github contributions 
+ 
+![snake_gif](https://github.com/WaShIsTyLee/WaShIsTyLee/blob/output/github-snake-dark.svg)
 
 ## 🚀 Sobre mí
 💻 Desarrollador de Aplicaciones Multiplataforma apasionado por la programación y la exploración de nuevas tecnologías.  
