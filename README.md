@@ -51,8 +51,8 @@
 📧 [Correo Electrónico](mailto:lopezsolanojuanjesus@gmail.com)  
 
  
-![snake_gif](https://github.com/WaShIsTyLee/WaShIsTyLee/blob/output/github-contribution-grid-snake-dark.svg
-)
+![snake_gif](https://raw.githubusercontent.com/WaShIsTyLee/WaShIsTyLee/main/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
